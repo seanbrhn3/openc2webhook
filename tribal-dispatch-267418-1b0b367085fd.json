@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-dispatch-267418",
+  "private_key_id": "1b0b367085fd92c405b6749d48812115786dbc57",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZHyge52YewMQB\n3mvU/RrY/+2pRsbJX0LqlzNUxGOAL6ffjP8Qm1cWWIM9S+LK22x6KBzDqywuyYJW\nJUQeZo+AK/4h+lW2aqv3CZu8ZqEMlJ1TWbvbHe16KQOQvNUBWSiIOUrDKf/3KpS9\n8jMV890HPvabcS7Zi21QEwtGk1MNVbc0LhsGZMh3d4KnNPzDBT7UbDMhOxPH9o5W\nOHC5szi6abSbUdKfq0HCckBObp2omskd+15MmdbEGwlxwptJO+aemCL2/8XbFiOb\nbeVQPdJNFQdqhZCd5VQlI0SsWcd+S4UN2Bu4PoQfWREqrB4nyZMyjcJfzAxaN8BR\nPxwTXyOVAgMBAAECggEACtiHVsnc3E7pS6WacdyF3Y6lRtYyAmenjlPovMSFqubW\nhjCDIkd8OXHI9oQmq1b8K3r6+tw/XAP1Zou8hB8/7llkO7rHUtIvzmqUtLvUsi3v\nUPVT0L2FOhu34aBJLKTRRULFZQvhTS27meRyIFfa8+x1gazM+BGCr6QP5WHhHXKR\n2zSXM0V+tSEVIz3nErtjN6fWvErxfw4eqZCzyq84bGfwP5Kx+hg0KmLFUnyNPMHp\ndmYe0hucaQM8fFdLcq/RoIYyQA6XKbu9zE5Log4+LkBSTDeqF01tfiA4ZgqRWnBP\nEpQ/0sLQVi3TOGJRhqSwGnmkcrU9npz1k35ozYzWyQKBgQD4LQad6qADN6jDSt4H\nfDC0dnnGtbr68msfkelEfOfAukDqWVfACImkPxB+1m4uFHmvyQHtK3BrN1oX99UR\nSGiWzSeAi2HbndA6Lp4LQBVfR3i6j71UwWriPXHDixJ91oIDGLhaz5jOWJj5Eq6Y\nBXzv8/WF5COFOGpNv0cLnziTDQKBgQDf93/SCsPQcP2qM89+suISmou9IRnKrPNw\nMvM+MVZ++EqtPtVz3YPFsypqHwrCj7gP54KzcWXnmdchy+V2TIABsPZt0AQGK3OT\nrW9hTFxGpSdF/V47bwn+NQ2tmqThELxFk/oq57K97dYsXqOVgLncVe/h5xFYjqDN\nJX2BUNpQqQKBgQCmtdhUDGAgySrcxVYQwSQWld+H1FweZun+8w03rJAhrvwccJe5\nsAKGCrcR/QlWevqjUuuwXhXOcAhdQWYnjfR0GKwIdZju5jwSWW5hMFMrBd/bsuME\nJEmgYJYjPTDWx1neqqRsnDeRpYJdDmeqR0V+CutLXc1emF8QiwU2kWZ3oQKBgQCS\nkN1ND05lsgvOvmkjeN0JX6ni8y51vAjze+RC5va70LDN/zigwm3hiwZOvFHGUVca\n0V5vH96YWcy3iT9400dR1ATwiBiaEQVpty4UdmxMrvesjcqFCn13pjB1U6Ziwxjy\nT4x/V3FZabOnBaf3xm3bC0IYi6aGVZBVsBsZ7VdxQQKBgANzXijpNdmN3/DTKf+E\n3kC913KbDGdPX3Kbn53DzJKElKCxjjLMeeZc/YOMf8E+NeFIf/eU8XsC1JN7QI8+\n5xhr2aSR8X/VTM+k6Tcpbr/Ulf0wPoaUueGmF24aHzGKkhwtt6n8Hi7M+CPnFyrt\nYh29ktY+m+OdXWdLUGrw5vOR\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integrations2@tribal-dispatch-267418.iam.gserviceaccount.com",
+  "client_id": "105697126034278131617",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integrations2%40tribal-dispatch-267418.iam.gserviceaccount.com"
+}
